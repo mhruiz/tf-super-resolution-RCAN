@@ -1,0 +1,1 @@
+Low resolution images were obtained using MATLAB's bicubic interpolation.

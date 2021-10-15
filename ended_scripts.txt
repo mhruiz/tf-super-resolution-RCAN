@@ -1,0 +1,8 @@
+01_train_rcan-base-scale3_adam_mae_600epch_ps48.py
+02_train_rcan-base-scale3_adam_mae_lrsch_50_2_09_3200epch_ps48.py
+03_train_rcan-base-scale3_adam_mae_lrsch_50_2_09_600epch_ps48_rangoCorrecto.py
+nb04b_train_rcan-scale3_replica_original_continuacion
+05_train_rcan-scale3-short
+05c_train_rcan-scale3-short_lkrelu
+05d_train_rcan-scale3-short_inception
+nb05b_train_rcan-scale3_loss-computed-on-lr-and-hr

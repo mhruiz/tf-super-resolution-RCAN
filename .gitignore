@@ -1,0 +1,16 @@
+.ipynb_checkpoints/*
+data/91-images/*
+data/BSDS200/*
+data/DIV2K_train_HR/*
+data/DIV2K_valid_HR/*
+data/General-100/*
+data/lr_images/*
+data/Manga109/*
+data/openImages_light/*
+data/Set5/*
+data/Set14/*
+data/Urban100/*
+superresolved_datasets/*
+TRAINED_MODELS_NEW/RCAN-BASE-SCALE3/*
+lib/__pycache__/*
+lib/.ipynb_checkpoints/*
